@@ -40,7 +40,7 @@
 #include <CTPP2VMSTDLib.hpp>
 #include <CTPP2VMStackException.hpp>
 #include <CTPP2GetText.hpp>
-
+#include <memory>
 #include <sys/stat.h>
 
 #ifdef HAVE_SYS_TIME_H
